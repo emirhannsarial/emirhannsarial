@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Emirhan%20Sarial&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast%20🚀&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Emirhan%20Sarıal&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast%20🚀&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
 <div align="center">
@@ -32,10 +32,10 @@
 
 <div align="center">
   <h3>🤝 Let's Connect</h3>
-  <a href="https://linkedin.com/in/emirhannsarial" target="_blank">
+  <a href="https://www.linkedin.com/in/emirhan-sarial-a98bba273/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:email@adresin.com">
+  <a href="mailto:sarialemirhan0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
